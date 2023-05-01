@@ -12,9 +12,13 @@ dependencies:
     sdk: flutter
   intl: 
   flutter_iconpicker:
-    path: ../FlutterIconPicker
+    git:
+      url: https://github.com/creativeblaq/FlutterIconPicker.git
+      
   omni_datetime_picker:
-    path: ../OmniDateTimePicker
+    git:
+      url: https://github.com/creativeblaq/OmniDateTimePicker.git
+      
   flutter_hooks: 
   flutter_form_builder: 
   form_builder_validators: 
